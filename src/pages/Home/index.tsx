@@ -1,8 +1,9 @@
 import React from 'react'
+import HomePage from './styles'
 
 const Home:React.FC = () => {
   return (
-    <div>Home</div>
+    <HomePage>Home</HomePage>
   )
 }
 

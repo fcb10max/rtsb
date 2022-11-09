@@ -1,8 +1,9 @@
 import React from 'react'
+import NotFoundPage from './styles'
 
 const NotFound:React.FC = () => {
   return (
-    <div>NotFound</div>
+    <NotFoundPage>NotFound</NotFoundPage>
   )
 }
 
